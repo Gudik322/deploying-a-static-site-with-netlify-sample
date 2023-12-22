@@ -10,11 +10,11 @@ body {
   justify-content: center;
 }
 
-foot {
-  display: grid;
-  align-items: end;
-  background: #baa970;
-  text-align: center;
+footer {
+  height: 80px;
+  margin-top: -80px;
+  text-align:center;
+  font-size:42px;
 }
   
 
