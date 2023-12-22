@@ -13,7 +13,6 @@ body {
 foot {
   display: grid;
   align-items: end;
-  height: 400px;
   background: #baa970;
   text-align: center;
 }
