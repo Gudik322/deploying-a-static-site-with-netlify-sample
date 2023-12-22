@@ -10,6 +10,15 @@ body {
   justify-content: center;
 }
 
+foot {
+  display: grid;
+  align-items: end;
+  height: 400px;
+  background: #baa970;
+  text-align: center;
+}
+  
+
 .container {
   width: 750px;
   max-width: 75%;
